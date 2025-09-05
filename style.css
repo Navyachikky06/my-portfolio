@@ -56,9 +56,13 @@ body {
 }
 
 .profile-pic {
-  width: 200px;
-  height: auto;
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
 }
+
 
 .project-card-container {
   display: grid;
@@ -117,5 +121,6 @@ img {
   height: auto;   
   border-radius: 10px; 
 }
+
 
 
