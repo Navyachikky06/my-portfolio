@@ -55,10 +55,9 @@ body {
   gap: 20px;
 }
 
-.profile {
-  width: 150px;
-  border-radius: 50%;
-  border: 3px solid #2575fc;
+.profile-pic {
+  width: 200px;
+  height: auto;
 }
 
 .project-card-container {
@@ -113,3 +112,4 @@ button:hover {
   padding: 15px 0;
   margin-top: 30px;
 }
+
